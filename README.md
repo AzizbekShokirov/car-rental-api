@@ -26,7 +26,7 @@ A RESTful API service built with Django and Django REST Framework to manage cars
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-rental-api.git
+git clone https://github.com/AzizbekShokirov/car-rental-api.git
 cd car-rental-api
 ```
 
@@ -66,7 +66,7 @@ python manage.py runserver
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-rental-api.git
+git clone https://github.com/AzizbekShokirov/car-rental-api.git
 cd car-rental-api
 ```
 
